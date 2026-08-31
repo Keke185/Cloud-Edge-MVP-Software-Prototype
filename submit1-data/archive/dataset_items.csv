@@ -1,0 +1,788 @@
+﻿item_id,target_role,item_text,gold_label
+Q_001,Product Manager,"When defining the PRD for a new Video Conference System, how would you identify and prioritize User needs across different enterprise segments, and how would the overall product Architecture influence your prioritization decisions?",Mismatched
+Q_002,Product Manager,"A large enterprise customer requests multiple Video Conference features at once. How would you evaluate User value, business impact, and System adoption metrics to determine the product roadmap without focusing on technical implementation details?",Mismatched
+Q_003,Product Manager,"How would you design the User experience for a Video Conference System where the underlying Architecture supports both small team meetings and large-scale town halls, while keeping the interface intuitive for different User groups?",Mismatched
+Q_004,Product Manager,"What product metrics would you use to measure the success of a Video Conference System, and how would you connect User satisfaction, business outcomes, and perceived System quality in your analysis?",Mismatched
+Q_005,Product Manager,"If customer feedback suggests that Users perceive a Video Conference System as unreliable, how would you investigate the User journey, gather insights, and translate findings into product requirements and Architecture-level product decisions?",Mismatched
+Q_006,Product Manager,"How would you create a market-entry strategy for a new enterprise Video Conference System in a highly competitive market, and how would User personas and ecosystem Architecture influence product positioning?",Mismatched
+Q_007,Product Manager,"When planning future releases for a Video Conference product, how would you balance requests related to User collaboration workflows, System administration experience, and Architecture scalability from a business perspective?",Mismatched
+Q_008,Product Manager,"How would you conduct User research to understand why organizations switch from one Video Conference System to another, and how would those insights shape your product vision and long-term Architecture strategy?",Mismatched
+Q_009,Product Manager,"Imagine executive stakeholders want to differentiate a Video Conference System through AI-powered experiences. How would you evaluate User demand, market trends, and Architecture implications when defining the product strategy and PRD?",Mismatched
+Q_010,Product Manager,"For a global Video Conference System serving diverse industries, how would you prioritize User experience, compliance expectations, System management requirements, and platform Architecture considerations when developing a multi-year product roadmap?",Mismatched
+Q_011,Product Manager,"How would you define the product vision and roadmap for an enterprise Video Conferencing System serving hybrid work, online education, webinars, and customer engagement use cases?",Mismatched
+Q_012,Product Manager,"When writing a PRD for a new Video Conference meeting lifecycle feature, how would you translate User pain points from scheduling, joining, in-meeting collaboration, recording, and post-meeting sharing into clear requirements and acceptance criteria?",Mismatched
+Q_013,Product Manager,"How would you prioritize competing User requests for a Video Conferencing platform, such as improved onboarding, advanced admin controls, recording retention, and integration with enterprise calendars?",Mismatched
+Q_014,Product Manager,"What product metrics would you use to evaluate whether a Video Conference System is successfully driving adoption, engagement, retention, and enterprise account growth?",Mismatched
+Q_015,Product Manager,How would you conduct customer discovery to identify unmet User needs and adoption barriers in enterprise Video Conference workflows across different industries and organization sizes?,Mismatched
+Q_016,Product Manager,"A competitor launches a differentiated Video Conference product with stronger ecosystem integrations and premium collaboration features. How would you assess the market impact and adjust your product positioning, pricing, or roadmap?",Mismatched
+Q_017,Product Manager,"How would you improve the UI/UX of a Video Conferencing System for first-time Users, enterprise administrators, and frequent meeting hosts while balancing simplicity with feature depth?",Mismatched
+Q_018,Product Manager,"How would you build a business case for investing in new enterprise governance, security, privacy, and compliance capabilities within a Video Conference product?",Mismatched
+Q_019,Product Manager,"How would you coordinate across engineering, UX, sales, marketing, customer success, and leadership teams to align on a Video Conference product launch and ensure the Architecture-level product narrative is understood by both technical and non-technical stakeholders?",Mismatched
+Q_020,Product Manager,"How would you define monetization and packaging strategy for a Video Conferencing System, including free-tier, premium, enterprise subscription, seat-based licensing, and value-added administration features?",Mismatched
+Q_021,Product Manager,"How would you define the product vision for a Video Conference platform targeting large enterprise customers, and what market trends would influence your strategy?",Mismatched
+Q_022,Product Manager,Describe how you would gather and prioritize User requirements when multiple enterprise clients request competing features for the Video Conference System.,Mismatched
+Q_023,Product Manager,"What key sections would you include in a PRD for a new Video Conference feature, and how would you ensure alignment between User needs and business goals?",Mismatched
+Q_024,Product Manager,How would you improve the User experience of a Video Conference System that receives complaints about meeting reliability and participant engagement?,Mismatched
+Q_025,Product Manager,A competitor launches a new Video Conference product with advanced collaboration capabilities. How would you evaluate the competitive threat and adjust your product roadmap?,Mismatched
+Q_026,Product Manager,"How would you measure the success of a Video Conference feature after launch? Which User, business, and System-level metrics would you monitor?",Mismatched
+Q_027,Product Manager,Enterprise customers often have complex organizational structures and workflows. How would you design a Video Conference product experience that serves both administrators and end Users effectively?,Mismatched
+Q_028,Product Manager,"How would you balance requests for new functionality against the need to improve the overall stability, scalability, and usability of the Video Conference System?",Mismatched
+Q_029,Product Manager,Describe how you would conduct customer interviews and market research to identify unmet User needs within the enterprise Video Conference market.,Mismatched
+Q_030,Product Manager,"If your company wanted to expand its Video Conference platform into new industries such as healthcare, education, or financial services, how would you evaluate the opportunity and define the product strategy?",Mismatched
+Q_031,Product Manager,"How would you write a PRD for a Video Conference platform initiative aimed at reducing User churn in regions with unstable network conditions, while balancing business objectives, User experience, and expectations around low-latency System performance?",Mismatched
+Q_032,Product Manager,"When prioritizing roadmap investments, how would you decide between improving Video Conference User workflows, enhancing observability dashboards, refining QoS-related User experiences, and expanding enterprise administration capabilities?",Mismatched
+Q_033,Product Manager,"A strategic customer requests greater transparency into packet loss, latency, and meeting quality metrics. From a Product Manager perspective, how would you determine whether exposing these System signals creates meaningful User value?",Mismatched
+Q_034,Product Manager,"How would you segment Users of a Video Conference ecosystem—including meeting hosts, participants, IT administrators, and compliance officers—and translate their requirements into a unified product Architecture and feature roadmap?",Mismatched
+Q_035,Product Manager,Suppose customer feedback indicates that Users perceive meetings as unreliable despite acceptable RTC quality metrics. How would you investigate the gap between measured System performance and perceived User experience?,Mismatched
+Q_036,Product Manager,"How would you evaluate the business case for introducing AI-powered meeting experiences into a Video Conference platform, considering User adoption, competitive differentiation, platform Architecture constraints, and enterprise purchasing criteria?",Mismatched
+Q_037,Product Manager,"Enterprise customers often request advanced controls related to security, encryption, compliance, and data governance. How would you balance these requirements against usability goals when defining the Video Conference product strategy?",Mismatched
+Q_038,Product Manager,"If your organization were considering expansion into large-scale hybrid events, what market research and User discovery activities would you conduct to determine whether the existing Video Conference Architecture and product positioning are sufficient?",Mismatched
+Q_039,Product Manager,"During quarterly planning, how would you prioritize investments across meeting engagement features, mobile User experience, multi-device interoperability, analytics dashboards, and large-conference scalability requirements within the overall Video Conference System roadmap?",Mismatched
+Q_040,Product Manager,"How would you define success metrics for a Video Conference product initiative focused on enterprise adoption, considering User retention, meeting frequency, session quality perceptions, administrative efficiency, and platform Architecture evolution over time?",Mismatched
+Q_041,Product Manager,"How would you evaluate and prioritize product investments between improving Video Conference meeting engagement features and enhancing User-perceived quality in scenarios involving packet loss, network jitter, and varying QoS conditions across enterprise environments?",Mismatched
+Q_042,Product Manager,"A multinational customer requests a unified Video Conference experience across desktop, mobile, and conference-room Systems. How would you define the product requirements, User journeys, and success metrics for such a cross-platform initiative?",Mismatched
+Q_043,Product Manager,"When developing a long-term roadmap for a Video Conference platform, how would you balance User-facing innovation with strategic investments in platform Architecture, scalability, observability, and operational excellence?",Mismatched
+Q_044,Product Manager,"How would you determine whether introducing advanced meeting analytics, RTC quality insights, and real-time monitoring dashboards would create measurable value for different User segments and enterprise decision-makers?",Mismatched
+Q_045,Product Manager,"Suppose enterprise administrators report difficulty managing large-scale deployments of a Video Conference System. How would you identify pain points, validate User needs, and prioritize improvements within the product backlog?",Mismatched
+Q_046,Product Manager,"How would you assess the market opportunity for a Video Conference offering optimized for highly regulated industries that have strict requirements around security, encryption, compliance, and data governance Architecture?",Mismatched
+Q_047,Product Manager,"A key customer requests deeper integration between the Video Conference platform and existing enterprise communication ecosystems. How would you evaluate User demand, business impact, and product positioning before committing roadmap resources?",Mismatched
+Q_048,Product Manager,"How would you design a product strategy for improving meeting reliability perceptions among Users when internal System metrics indicate healthy RTC performance, stable media delivery, and acceptable latency levels?",Mismatched
+Q_049,Product Manager,"When defining the vision for the next generation of a Video Conference System, how would you incorporate emerging trends such as AI-assisted collaboration, hybrid work, real-time transcription, and intelligent meeting workflows into the product roadmap?",Mismatched
+Q_050,Product Manager,"How would you establish a framework for prioritizing competing requests related to User experience, enterprise administration, observability capabilities, platform Architecture evolution, and large-scale concurrent meeting support within a Video Conference ecosystem?",Mismatched
+Q_051,Video Conferencing Sales,"Tell me about a time you carried a substantial annual sales quota for a Video Conference Solution or comparable B2B technology. How did you structure your territory, pipeline, and weekly Performance reviews to achieve or exceed the target?",Mismatched
+Q_052,Video Conferencing Sales,"How would you build a prospecting strategy to win net-new enterprise clients for a Video Conference System when the target market already contains established Solution providers? Which buyer profiles, outreach channels, and qualification criteria would you prioritize?",Mismatched
+Q_053,Video Conferencing Sales,"A strategic customer wants a multi-year Video Conference Solution contract but requests aggressive discounts, flexible termination rights, and extended payment terms. How would you negotiate the commercial agreement while protecting revenue, margin, and account value?",Mismatched
+Q_054,Video Conferencing Sales,"What sales stages, qualification evidence, and CRM controls would you use to forecast the Performance of a Video Conference System pipeline accurately? How would you prevent optimistic Solution opportunities from distorting the forecast?",Mismatched
+Q_055,Video Conferencing Sales,"When meeting a CFO, procurement leader, and business sponsor, how would you position a Video Conference Solution in terms of business value, organizational outcomes, and return on investment rather than relying on a feature-led System presentation?",Mismatched
+Q_056,Video Conferencing Sales,"A prospect is satisfied with an incumbent Video Conference System, while a second competitor is offering a lower price. How would you create urgency, differentiate your Solution, and improve win Performance without defaulting to excessive discounting?",Mismatched
+Q_057,Video Conferencing Sales,"An enterprise Video Conference Solution purchase involves business leaders, procurement, finance, legal, security, and end-user representatives. How would you map influence, manage objections, maintain momentum, and guide the System opportunity toward closure?",Mismatched
+Q_058,Video Conferencing Sales,"After closing an initial Video Conference System agreement, how would you work with the account to increase adoption, uncover additional use cases, generate cross-sell or upsell opportunities, and improve the commercial Performance of the Solution relationship?",Mismatched
+Q_059,Video Conferencing Sales,"Halfway through the quarter, your Video Conference Solution pipeline coverage falls below plan and several major System deals have slipped. What commercial actions would you take to rebuild coverage, accelerate qualified opportunities, and recover quota Performance?",Mismatched
+Q_060,Video Conferencing Sales,"Customers repeatedly raise concerns about the positioning, packaging, and pricing of the Video Conference Solution. How would you distinguish individual negotiation tactics from meaningful market evidence and communicate that evidence to product, marketing, and sales leadership without taking ownership of System engineering decisions?",Mismatched
+Q_061,Video Conferencing Sales,"How would you segment a territory and prioritize enterprise prospects for a cloud-native Video Conference Solution involving APIs, SDKs, media processing, edge infrastructure, and distributed Systems, while ensuring that your account strategy supports quota attainment and efficient customer acquisition?",Mismatched
+Q_062,Video Conferencing Sales,"During discovery, a prospect discusses codec compatibility, adaptive bitrate, cloud architecture, encryption, identity management, and endpoint interoperability. Without attempting to engineer the Video Conference System, how would you convert those topics into business needs, qualification criteria, buying urgency, and a compelling commercial Solution?",Mismatched
+Q_063,Video Conferencing Sales,"How would you construct a value-based pricing proposal for a Video Conference Solution offered through SaaS, PaaS, APIs, SDK consumption, cloud recording, analytics, and CDN services? How would you determine whether seat-based, usage-based, or enterprise pricing would produce the strongest revenue Performance?",Mismatched
+Q_064,Video Conferencing Sales,"A procurement team argues that competing Video Conference Systems offer equivalent latency, scalability, availability, security, and integration Performance at a lower price. How would you challenge the comparison, defend commercial value, and negotiate without becoming responsible for technical validation?",Mismatched
+Q_065,Video Conferencing Sales,"A prospect has completed a Video Conference Solution proof of concept covering SSO, calendar integration, room endpoints, cloud recording, dashboards, and administrative controls, but has not committed to purchase. How would you convert technical interest into an approved business case, commercial timeline, and signed contract?",Mismatched
+Q_066,Video Conferencing Sales,"How would you recruit and motivate resellers, system integrators, cloud partners, and managed-service providers to sell a Video Conference System involving multi-tenant architecture, identity federation, enterprise APIs, and hybrid-cloud deployment, while preventing channel conflict and protecting sales Performance?",Mismatched
+Q_067,Video Conferencing Sales,"An enterprise customer reports declining adoption of its Video Conference Solution, despite acceptable uptime, service availability, dashboard telemetry, recording capacity, and integration status. How would you identify the commercial causes of churn risk, create an adoption plan, and negotiate a successful renewal?",Mismatched
+Q_068,Video Conferencing Sales,"Customer analytics show growing consumption of cloud recording, storage, transcription, media processing, webinar capacity, API calls, and concurrent sessions within a Video Conference System. How would you use these signals to develop an expansion proposal without presenting yourself as the engineer responsible for System Performance?",Mismatched
+Q_069,Video Conferencing Sales,"A regulated enterprise raises concerns about encryption, data residency, access control, audit logs, retention policies, identity federation, and compliance architecture within your Video Conference Solution. How would you manage the sales conversation, involve appropriate specialists, maintain deal momentum, and avoid making unsupported technical commitments?",Mismatched
+Q_070,Video Conferencing Sales,"How would you build an executive account plan for a global customer seeking a Video Conference System across multiple regions, business units, cloud environments, directory services, room devices, and collaboration platforms? Explain how you would map decision-makers, quantify opportunity value, manage contract complexity, and forecast commercial Performance.",Mismatched
+Q_071,Video Conferencing Sales,"You have 30 target accounts interested in enterprise Video Conference Solutions, but only limited time and sales-engineering support. How would you prioritize the accounts using potential contract value, buying urgency, stakeholder access, competitive position, and technical fit?",Mismatched
+Q_072,Video Conferencing Sales,"A prospect mentions cloud recording, calendar integration, single sign-on, room devices, and analytics dashboards during a Video Conference System discovery call. What business questions would you ask to uncover measurable pain points, buying motivation, budget, and decision criteria?",Mismatched
+Q_073,Video Conferencing Sales,"Your annual target is based on new subscriptions and expansion revenue for a Video Conference Solution. How would you calculate the pipeline coverage needed, balance large enterprise deals against smaller opportunities, and monitor sales Performance throughout the year?",Mismatched
+Q_074,Video Conferencing Sales,"How would you recommend an appropriate package when a customer is comparing free, premium, seat-based, and usage-based Video Conference plans that include different levels of storage, webinar capacity, administrative controls, and API consumption?",Mismatched
+Q_075,Video Conferencing Sales,"A customer asks for lower pricing while also requesting additional recording capacity, security controls, platform integrations, and service support. How would you negotiate the Video Conference Solution contract without reducing price and increasing scope at the same time?",Mismatched
+Q_076,Video Conferencing Sales,"How would you create a business case for a Video Conference System by linking features such as meeting-room integration, centralized administration, and usage analytics to cost savings, workforce productivity, customer engagement, or revenue growth?",Mismatched
+Q_077,Video Conferencing Sales,"The business sponsor supports your Video Conference Solution, but procurement is focused on price, security teams are reviewing access controls, and finance questions the expected ROI. How would you tailor your sales message and next steps for each stakeholder?",Mismatched
+Q_078,Video Conferencing Sales,"Before renewal, a competitor offers the customer a lower-cost Video Conference System with similar headline features. How would you use adoption data, relationship value, switching risk, service experience, and commercial incentives to retain the account?",Mismatched
+Q_079,Video Conferencing Sales,"A customer’s dashboard shows increased webinar attendance, meeting frequency, recording consumption, and active seats. How would you convert these System usage indicators into a credible expansion conversation while avoiding an overly aggressive sales approach?",Mismatched
+Q_080,Video Conferencing Sales,"A major Video Conference Solution opportunity has completed its product evaluation, but legal review and budget approval remain unresolved. What evidence would you require before including it in your commit forecast, and what actions would you take to reach closure?",Mismatched
+Q_081,Video Conferencing Sales,"An enterprise prospect is evaluating a Video Conference Solution as part of a broader digital workplace, cloud collaboration, identity management, and productivity platform initiative. How would you position the commercial value of the Solution and secure executive sponsorship across multiple business units?",Mismatched
+Q_082,Video Conferencing Sales,"A customer is considering a Video Conference System that includes webinars, cloud recording, analytics dashboards, administrative controls, API access, and enterprise integrations. How would you structure the sales process to maximize deal size while preventing the opportunity from becoming overly complex?",Mismatched
+Q_083,Video Conferencing Sales,"A prospect spends most meetings discussing SSO, security policies, compliance controls, CDN architecture, scalability, and platform integrations, but rarely discusses budget or business outcomes. How would you redirect the conversation toward commercial priorities and increase the likelihood of closing the Solution?",Mismatched
+Q_084,Video Conferencing Sales,"A global customer wants to compare seat-based licensing, enterprise subscriptions, usage-based billing, webinar capacity pricing, cloud storage pricing, and premium feature packages for a Video Conference System. How would you guide the purchasing decision while maximizing long-term account value?",Mismatched
+Q_085,Video Conferencing Sales,"You are targeting an account currently using a competing Video Conference Platform that advertises strong security, analytics, integrations, mobile support, recording capabilities, and administrative management tools. How would you build a competitive displacement strategy that improves sales Performance without relying primarily on price discounts?",Mismatched
+Q_086,Video Conferencing Sales,"A Video Conference Solution evaluation involves IT leadership, HR, operations, procurement, finance, learning teams, and executive management. How would you ensure all stakeholders see value in the same System while maintaining momentum toward a purchasing decision?",Mismatched
+Q_087,Video Conferencing Sales,"A customer's usage dashboard shows growth in meeting volume, webinar attendance, active seats, recording consumption, room-system usage, mobile participation, and collaboration activity. How would you convert these metrics into a strategic expansion and renewal conversation?",Mismatched
+Q_088,Video Conferencing Sales,"A regulated enterprise requires extensive reviews related to encryption, identity federation, access controls, audit logging, governance frameworks, compliance reporting, and data retention policies before purchasing a Video Conference Solution. How would you keep the sales cycle advancing while avoiding unnecessary delays?",Mismatched
+Q_089,Video Conferencing Sales,"A multinational organization wants one Video Conference System across multiple countries, business units, subsidiaries, and regional offices, each with different requirements for administration, reporting, integrations, and user management. How would you coordinate the commercial strategy and negotiation process?",Mismatched
+Q_090,Video Conferencing Sales,"Several large Video Conference Solution opportunities have completed evaluations involving platform integrations, room-device compatibility reviews, analytics validation, security assessments, and enterprise onboarding planning. What commercial indicators would you require before moving these opportunities into a committed forecast category?",Mismatched
+Q_091,Video Conferencing Sales,"A prospective customer is evaluating a Video Conference Solution that includes cloud recording, analytics dashboards, identity management, webinar functionality, API integrations, and centralized administration. How would you build executive sponsorship and business urgency across the buying committee while maintaining forecast confidence?",Mismatched
+Q_092,Video Conferencing Sales,"During initial meetings, stakeholders spend significant time discussing security frameworks, SSO, compliance requirements, directory synchronization, governance policies, and platform integrations within the Video Conference System. How would you qualify the opportunity from a sales perspective and determine whether it deserves continued investment?",Mismatched
+Q_093,Video Conferencing Sales,"A customer is comparing multiple Video Conference Solution packages with different combinations of meeting capacity, cloud storage, recording retention, administrative controls, analytics features, and room-system support. How would you guide the customer toward the most appropriate commercial package while maximizing long-term account value?",Mismatched
+Q_094,Video Conferencing Sales,"An enterprise plans to deploy a Video Conference Platform in stages, beginning with core meetings and later expanding into webinars, virtual events, advanced analytics, collaboration tools, and enterprise integrations. How would you structure the sales process to secure an initial contract while creating a roadmap for future expansion?",Mismatched
+Q_095,Video Conferencing Sales,"A procurement team argues that competing Video Conference Systems offer similar recording capabilities, reporting dashboards, administrative management, security controls, and integration options at a lower cost. How would you defend premium pricing and demonstrate the overall value of your Solution?",Mismatched
+Q_096,Video Conferencing Sales,"A customer's Video Conference System usage has expanded across multiple departments, with increases in active users, webinar attendance, recording consumption, mobile participation, and workspace integrations. How would you identify cross-functional growth opportunities and negotiate an account expansion strategy?",Mismatched
+Q_097,Video Conferencing Sales,"A prospect is undergoing a merger and is reviewing its entire collaboration Platform, including user management, governance models, room devices, identity systems, and enterprise communication tools. How would you position your Video Conference Solution to capitalize on the transition while minimizing competitive risk?",Mismatched
+Q_098,Video Conferencing Sales,"Ahead of renewal, a customer reports stable System Performance, strong adoption, and extensive use of analytics, reporting, compliance controls, and collaboration features, yet procurement is still considering alternative vendors. How would you diagnose the commercial risk and protect the renewal opportunity?",Mismatched
+Q_099,Video Conferencing Sales,"A systems integrator wants to resell your Video Conference Solution alongside its portfolio of cloud services, enterprise software, identity platforms, analytics tools, and managed services. How would you evaluate the partnership opportunity, establish commercial expectations, and measure partner sales Performance?",Mismatched
+Q_100,Video Conferencing Sales,"A global enterprise is evaluating a Video Conference System spanning multiple business units, geographic regions, administrative domains, compliance requirements, reporting structures, and integration environments. How would you build an account plan that addresses stakeholder alignment, contract structure, revenue growth, and long-term customer retention?",Mismatched
+Q_101,General backend development,"A production System is intermittently returning errors to users, but logs show no obvious single failure point.
+Describe how you would investigate the issue step by step, including:
+•How you would collect evidence
+•How you would isolate likely causes
+•How you would communicate progress to stakeholders
+•How you would prevent the issue from recurring",Weakly Aligned
+Q_102,General backend development,"Design a simple backend API for Management of user records.
+Explain how you would implement:
+•Create user
+•Read user
+•Update user
+•Delete user
+•Input validation
+•Error handling
+•Basic access control",Weakly Aligned
+Q_103,General backend development,"A database query that used to complete quickly now takes several seconds under increased traffic.
+How would you Optimize the query and improve overall Performance?
+Discuss:
+•Indexing
+•Query structure
+•Connection usage
+•Caching
+•Measuring before and after changes",Weakly Aligned
+Q_104,General backend development,"You are assigned three urgent tasks at the same time:
+•Fix a production issue
+•Review a teammate's code
+•Prepare a design document for a future feature
+How would you prioritize them, and how would you explain your decision to your manager and team?",Weakly Aligned
+Q_105,General backend development,"A web System receives uneven traffic across backend servers, causing some instances to become overloaded while others remain mostly idle.
+Explain:
+•Why this situation can happen
+•How load balancing helps
+•What health checks are used for
+How you would verify that traffic distribution has improved",Weakly Aligned
+Q_106,General backend development,"Describe a time when you had to work with product managers, QA engineers, infrastructure engineers, or frontend engineers to deliver a technical feature.
+How did you handle:
+•Conflicting priorities
+•Unclear requirements
+•Technical disagreements
+Final delivery coordination",Weakly Aligned
+Q_107,General backend development,"A service reads the same data frequently, and response time is becoming slow.
+Explain how you would use caching to improve System Performance.
+Include:
+•What data you would cache
+•How long the cache should live
+•How you would handle stale data
+What risks caching can introduce",Weakly Aligned
+Q_108,General backend development,"During an outage, customers report that a service is unavailable.
+Describe your approach to incident Management, including:
+•Initial triage
+•Escalation
+•Rollback or mitigation
+•Customer/internal communication
+•Post-incident review",Weakly Aligned
+Q_109,General backend development,"When reviewing a teammate's pull request, what do you look for beyond whether the code ""works""?
+Discuss:
+•Maintainability
+•Readability
+•Test coverage
+•Error handling
+•Security considerations
+•Long-term impact on the System",Weakly Aligned
+Q_110,General backend development,"You are asked to Optimize a backend service, but no one has clearly defined what ""slow"" means.
+How would you establish a Performance baseline and decide what to improve?
+Cover:
+•Metrics you would collect
+•Test environment design
+•Load testing
+•Bottleneck identification
+•How you would report results",Weakly Aligned
+Q_111,General backend development,"You are assigned a feature request, but the requirements are incomplete and different stakeholders describe the expected behavior differently.
+How would you manage the situation?
+Discuss how you would:
+•Clarify expectations
+•Identify missing information
+•Document assumptions
+•Align stakeholders
+•Prevent rework later in the project",Weakly Aligned
+Q_112,General backend development,"During implementation, you discover that a planned change could negatively affect overall System Performance.
+How would you communicate this risk to:
+•Your technical lead
+•Product management
+•Non-technical stakeholders
+What information would you include to help them make a decision?",Weakly Aligned
+Q_113,General backend development,"A senior engineer reviews your design and says your approach is too complex and difficult to maintain.
+How would you respond?
+Explain how you would:
+•Evaluate the feedback objectively
+•Decide whether to revise the design
+•Avoid becoming defensive
+•Preserve team trust",Weakly Aligned
+Q_114,General backend development,"Your team is under pressure to deliver a feature quickly, but you believe the current implementation may create long-term Management and maintenance problems.
+How would you balance:
+•Delivery deadlines
+•Code quality
+•Technical debt
+•Customer impact
+•Team alignment",Weakly Aligned
+Q_115,General backend development,"You need to explain a complex technical System to a product manager who does not have an engineering background.
+How would you structure your explanation?
+What details would you include, and what details would you intentionally avoid?",Weakly Aligned
+Q_116,General backend development,"You and another engineer disagree on how to Optimize a component.
+They prefer a quick fix, while you prefer a more robust long-term solution.
+How would you handle the disagreement constructively?",Weakly Aligned
+Q_117,General backend development,"You are asked to work on a part of the System that you have never touched before.
+Describe your approach to getting productive quickly.
+Include how you would:
+•Read documentation
+•Ask for help
+•Review existing code or configuration
+•Reduce the risk of mistakes
+•Validate your changes",Weakly Aligned
+Q_118,General backend development,"A production issue occurs shortly after a change you contributed to, but it is not yet clear whether your change caused the problem.
+What would you do?
+Describe how you would approach:
+•Responsibility
+•Investigation
+•Communication
+•Mitigation
+•Follow-up improvements",Weakly Aligned
+Q_119,General backend development,"A junior engineer on your team is struggling to understand how a shared System works and frequently asks for help.
+How would you support them without simply doing the work for them?
+Discuss how you would balance:
+•Mentorship
+•Team productivity
+•Quality expectations
+•Long-term skill development",Weakly Aligned
+Q_120,General backend development,"After delivering a project, the team notices several issues: unclear ownership, late requirement changes, and unexpected Performance problems.
+How would you run or contribute to a retrospective?
+What actions would you suggest to Optimize the team's future delivery process?",Weakly Aligned
+Q_121,General backend development,"You are designing a relational database for a student course registration System.
+Explain how you would apply normalization principles.
+Discuss:
+•First, second, and third normal form
+•How normalization reduces data redundancy
+•When denormalization might improve Performance
+How you would balance data integrity against query efficiency",Weakly Aligned
+Q_122,General backend development,"A Java backend service queries a large table frequently by user_id, status, and created_time.
+How would you design indexes to Optimize database query Performance?
+Explain:
+•Single-column versus composite indexes
+•Index selectivity
+•Write overhead caused by indexes
+How you would validate whether the index improves the System",Weakly Aligned
+Q_123,General backend development,"A backend System needs to update an order record, reduce inventory, and create a payment record as part of one operation.
+How would you design transaction Management for this workflow?
+Discuss:
+•Atomicity
+•Rollback behavior
+•Isolation levels
+•Deadlock risk
+What could go wrong if each database update is handled independently",Weakly Aligned
+Q_124,General backend development,"In Java development, the Singleton pattern is sometimes used for shared application components.
+Explain:
+•What problem the Singleton pattern solves
+•How to implement it safely in Java
+•Why thread safety matters
+•Why overusing Singleton can make a System harder to test or maintain",Weakly Aligned
+Q_125,General backend development,"A backend System supports multiple notification channels, such as email, SMS, and in-app messages.
+How would you use the Factory pattern to manage object creation?
+Explain:
+•What interface or abstraction you would define
+•How the correct implementation would be selected
+•How this pattern improves extensibility
+•What trade-offs it introduces",Weakly Aligned
+Q_126,General backend development,"Choose two SOLID principles and explain how they help improve software maintainability.
+Use examples from a Java backend application.
+Your answer should cover:
+•The design problem each principle addresses
+•How the principle improves code structure
+•How violating the principle can hurt long-term System Management
+•How you would identify violations during code review",Weakly Aligned
+Q_127,General backend development,"A Java service class directly creates its own database client, logging utility, and external API client.
+Why might this design be problematic?
+Explain how dependency injection can improve:
+•Testability
+•Code flexibility
+•Separation of concerns
+•Configuration Management
+•Long-term maintainability",Weakly Aligned
+Q_128,General backend development,"Your team is working on multiple features and urgent bug fixes in the same repository.
+Describe a code Management strategy using Git.
+Discuss:
+•Feature branches
+•Pull requests
+•Code reviews
+•Merge conflicts
+•Release branches
+How to reduce risk when multiple engineers change the same System?",Weakly Aligned
+Q_129,General backend development,"A Java backend service catches all exceptions using a generic catch (Exception e) block and returns the same error response to every caller.
+What problems can this cause?
+Explain how you would design a better exception handling strategy, including:
+•Checked versus unchecked exceptions
+•Custom exception types
+•Logging
+•User-facing error messages
+•Preserving useful diagnostic information without exposing sensitive details",Weakly Aligned
+Q_130,General backend development,"You inherit a large Java class that handles validation, database access, business logic, and response formatting in one place.
+How would you refactor it?
+Discuss:
+•Separation of concerns
+•Extracting smaller classes or methods
+•Preserving existing behavior
+•Adding tests before refactoring
+•How refactoring can Optimize long-term maintainability without changing external System behavior",Weakly Aligned
+Q_131,General backend development,"You need to design a database schema for an audit logging System that records user actions, timestamps, affected resources, and operation results.
+Explain how you would design the tables and fields.
+Discuss:
+•Primary keys and foreign keys
+•Timestamp storage
+•Query patterns for searching logs
+•Retention and archival strategy
+•How you would Optimize storage and query Performance",Weakly Aligned
+Q_132,General backend development,"A new application needs to store user profiles, activity history, configuration data, and high-volume event records.
+How would you decide whether to use a relational database, a non-relational database, or both?
+Explain:
+•Data structure requirements
+•Consistency needs
+•Query complexity
+•Scalability expectations
+•Long-term Management and maintenance considerations",Weakly Aligned
+Q_133,General backend development,"A production System requires a schema change that adds new fields and modifies an existing table used by multiple services.
+How would you plan and execute the migration safely?
+Cover:
+•Backward compatibility
+•Migration scripts
+•Rollback planning
+•Data validation
+•Deployment sequencing
+•How to avoid downtime or service disruption",Weakly Aligned
+Q_134,General backend development,"A database is experiencing heavy read traffic, causing slow response times for user-facing requests.
+How could read replicas help improve System Performance?
+Discuss:
+•Read/write separation
+•Replication lag
+•Failover considerations
+•Which queries should use replicas
+•Risks of reading stale data",Weakly Aligned
+Q_135,General backend development,"A backend service starts failing intermittently because it runs out of available database connections during peak traffic.
+How would you investigate and resolve the issue?
+Explain:
+•Connection pool sizing
+•Long-running queries
+•Leaked connections
+•Transaction duration
+•Monitoring metrics
+•Ways to Optimize connection Management",Weakly Aligned
+Q_136,General backend development,"You are asked to design a simple internal System for tracking employee equipment requests.
+Explain how you would approach:
+•Data model design
+•API design
+•Authentication and authorization
+•Basic reporting
+•Error handling
+•Future scalability
+How would you avoid over-engineering the first version while keeping the design maintainable?",Weakly Aligned
+Q_137,General backend development,"A service that normally responds in under 200 ms now frequently takes more than 2 seconds.
+Describe how you would investigate the Performance regression.
+Include:
+•Metrics you would check first
+•How you would compare current and historical behavior
+•How you would identify whether the issue is caused by code, database, infrastructure, or traffic patterns
+•How you would validate that the fix worked",Weakly Aligned
+Q_138,General backend development,"A product manager asks for a feature to be delivered in one week, but your technical estimate is closer to three weeks.
+How would you handle expectation Management?
+Discuss:
+•How you would explain the estimate
+•How you would break down the work
+•How you would propose trade-offs
+•How you would communicate risks
+•How you would maintain trust with non-technical stakeholders",Weakly Aligned
+Q_139,General backend development,"A nightly batch job processes records from a database and sometimes fails to complete before business hours.
+How would you Optimize the job?
+Consider:
+•Query efficiency
+•Pagination or chunking
+•Parallel processing
+•Retry behavior
+•Logging and monitoring
+•Safe failure recovery",Weakly Aligned
+Q_140,General backend development,"Design a basic user Management module for an enterprise application.
+Explain how you would implement:
+•Adding a user
+•Updating user details
+•Disabling a user
+•Searching users
+•Role assignment
+•Audit logging
+What validation and security checks would you include?",Weakly Aligned
+Q_141,General backend development,"Two senior engineers disagree about how to improve System Performance. One prefers a quick configuration change, while the other recommends a larger redesign.
+How would you help the team reach a decision?
+Explain how you would use:
+•Evidence
+•Benchmarks
+•Risk analysis
+•Time constraints
+•Long-term maintainability
+•Team consensus",Weakly Aligned
+Q_142,General backend development,"Your team is preparing to hand over a service to an operations team.
+What documentation would you create to support long-term Management of the System?
+Include:
+•Deployment steps
+•Configuration details
+•Common failure scenarios
+•Monitoring dashboards
+•Alert descriptions
+•Rollback procedures
+•Escalation paths",Weakly Aligned
+Q_143,General backend development,"You join a project where the code works, but it is difficult to understand, test, and modify.
+How would you improve maintainability without disrupting the running System?
+Discuss:
+•Refactoring strategy
+•Test coverage
+•Code review standards
+•Naming and structure
+•Dependency cleanup
+•Measuring improvement over time",Weakly Aligned
+Q_144,General backend development,"A customer-facing System is degraded, and several teams are investigating.
+How would you communicate during the incident?
+Explain:
+•What information should be shared early
+•How often updates should be sent
+•How to avoid speculation
+•How to coordinate technical teams
+•How to summarize the resolution after recovery",Weakly Aligned
+Q_145,General backend development,"A teammate proposes a complex solution to Optimize a component, but the current Performance issue only affects a small number of users.
+How would you evaluate whether the optimization is worth implementing?
+Discuss:
+•User impact
+•Engineering cost
+•Operational complexity
+•Risk of new defects
+•Alternative simpler fixes
+•Long-term System maintainability",Weakly Aligned
+Q_146,General backend development,"You need to build a backend System that manages call/session setup between clients.
+Explain how you would design the signaling service, including:
+•How clients create, join, and leave sessions
+•How session state is stored and updated
+•How APIs expose session operations
+•How you would handle authentication and authorization
+•How the service should behave if one participant disconnects unexpectedly",Weakly Aligned
+Q_147,General backend development,"A backend service needs to store and manage metadata for real-time audio/video sessions.
+Design a basic database model for this requirement, covering:
+•Session ID and participant records
+•Session status tracking
+•Start time, end time, and duration
+•Device or client capability metadata
+•How you would support querying historical sessions efficiently
+•What indexes you would create to Optimize Performance",Weakly Aligned
+Q_148,General backend development,"A platform needs to integrate two different communication protocols through a backend gateway service.
+Explain how you would design the gateway at a high level.
+Cover:
+•How incoming requests are validated
+•How one protocol's session information is mapped to another
+•How errors are translated between systems
+•How logs and tracing help troubleshoot interoperability issues
+•How you would test the gateway under concurrent traffic",Weakly Aligned
+Q_149,General backend development,"You are responsible for backend monitoring of real-time communication sessions.
+What metrics would you collect to understand System Performance and user experience?
+•Session setup success rate
+•Session setup latency
+•Active session count
+•Failed connection attempts
+•Network quality indicators
+•Backend CPU, memory, and connection usage
+•Alerting thresholds and dashboard design",Weakly Aligned
+Q_150,General backend development,"A communication platform is growing from hundreds to tens of thousands of concurrent users.
+How would you scale the backend services that support session creation, participant Management, and protocol coordination?
+Explain:
+•Horizontal scaling
+•Load balancing
+•Stateless versus stateful service design
+•Distributed session storage
+•Caching frequently accessed session data
+•Failure recovery
+•How you would Optimize reliability and availability under high load",Weakly Aligned
+Q_151,Video Conferencing Solution,"Your enterprise customer has legacy H.323 room systems and is migrating to a SIP-based conferencing platform. A user on an H.323 endpoint cannot successfully join a SIP-hosted virtual meeting room.
+Question: Walk through the complete end-to-end call setup process and identify the role of:
+•Q.931
+•H.225
+•H.245
+•H.235
+•SIP
+•SDP
+At which stages would protocol translation be required, and how would you troubleshoot a failure where call signaling succeeds but media never establishes?",Aligned
+Q_152,Video Conferencing Solution,"You need to integrate browser-based WebRTC clients with a traditional SIP trunk connected to the PSTN.
+Question: Design the signaling and media path from: Browser → WebRTC Edge → SIP Core → PSTN
+Explain:
+•Where RTP becomes SRTP and vice versa
+•How SDP negotiation is mapped between WebRTC and SIP
+•Which components terminate ICE negotiation
+•How codec mismatches are resolved
+Which elements introduce the largest latency penalties",Aligned
+Q_153,Video Conferencing Solution,"A customer plans to support:
+•5,000 concurrent users
+•200 active multiparty meetings
+•Mixed endpoint capabilities
+•Limited server budget
+Question: Compare a centralized AVC MCU architecture against an SVC/SFU-based architecture.
+Specifically discuss:
+•CPU consumption
+•Network bandwidth utilization
+•Transcoding requirements
+•Media quality adaptation
+•Conference scale limits
+•Failure domains
+Then justify which architecture you would recommend and why.",Aligned
+Q_154,Video Conferencing Solution,"A multinational organization requires:
+•Active-active deployment across two data centers
+•No single point of failure
+•Automatic failover during node loss
+Question: Design the media cluster architecture.
+Explain:
+•Conference state management
+•Media resource pooling
+•Cascading between media servers
+•Load balancing strategy
+•Session stickiness requirements
+Recovery behavior when a media node crashes during an active conference.",Aligned
+Q_155,Video Conferencing Solution,"Users can see conference video normally, but presentation sharing fails intermittently. The environment uses H.239 and BFCP for dual-stream transmission.
+Question: Describe:
+•The signaling sequence required to establish dual streams
+•The media flows involved
+•Common failure points
+How you would verify whether the issue is caused by endpoint capability negotiation, conference policy restrictions, or media-engine resource exhaustion.",Aligned
+Q_156,Video Conferencing Solution,"A remote participant joins a 4K conference over an unstable network experiencing:
+•5% packet loss
+•80 ms jitter
+•Variable bandwidth
+Audio remains intelligible, but video freezes repeatedly.
+Question: Explain how you would tune:
+•Jitter buffers
+•RTP/RTCP behavior
+•Codec parameters (H.264/H.265)
+•Keyframe generation strategy
+•Audio/video synchronization mechanisms
+Describe the trade-offs between latency, smoothness, and image quality.",Aligned
+Q_157,Video Conferencing Solution,"A conferencing platform supports:
+•Virtual Meeting Rooms (VMRs)
+•IVR access
+•URI dialing
+•Direct IP dialing
+The business requires support for:
+•50,000 registered users
+•8,000 simultaneous conference participants
+Question: Describe how you would model and allocate:
+•Media ports
+•Conference resources
+•VMR capacity
+•IVR resources
+•Signaling capacity
+What metrics would determine whether the bottleneck is in the conference control layer or the media processing layer?",Aligned
+Q_158,Video Conferencing Solution,"A boardroom contains:
+•Two 4K cameras
+•Three presentation sources
+•Multiple displays
+•DSP audio processor
+•PoE touch panel
+•Wireless presentation gateway
+Question: Design the complete signal flow from source acquisition to conference transmission.
+Explain:
+•HDMI routing
+•Audio transport using XLR/RCA
+•Control signaling
+•Optical versus electrical transmission choices
+Failure risks introduced by each stage of the signal chain.",Aligned
+Q_159,Video Conferencing Solution,"A customer reports:
+•Echo during meetings
+•Inconsistent microphone volume
+•Excessive background noise
+Question: Design the real-time audio processing chain and explain the ordering and interaction of:
+•AEC
+•ANS
+•AGC
+Why does algorithm order matter, and what artifacts would you expect if AGC is applied before ANS or if AEC is incorrectly tuned?",Aligned
+Q_160,Video Conferencing Solution,"An enterprise wants a real-time meeting assistant capable of:
+•Listening to conference audio
+•Producing live subtitles
+•Calling external tools through MCP/function-calling
+•Responding with synthesized speech during the meeting
+Question: Design the complete low-latency architecture from conference media ingestion to AI response delivery.
+Explain:
+•ASR streaming pipeline
+•LLM orchestration layer
+•MCP/function-calling workflow
+•TTS generation
+•Media reinjection into the conference
+•Latency budget allocation across each component
+Finally, identify the biggest technical bottleneck that would prevent the experience from feeling truly real-time.",Aligned
+Q_161,Video Conferencing Solution,"In a WebRTC-based video conference, both RTP and RTCP packets are exchanged.
+Explain:
+•What RTP is responsible for
+•What RTCP is responsible for
+•Why both protocols are required
+What problems would occur if RTCP packets were blocked while RTP continued to flow",Aligned
+Q_162,Video Conferencing Solution,"A SIP endpoint successfully registers to a SIP server and then initiates a call to another user.
+Describe the purpose of:
+•SIP URI
+•INVITE
+•SDP
+•180 Ringing
+•200 OK
+•ACK
+At which step are codec negotiation and media parameters determined?",Aligned
+Q_163,Video Conferencing Solution,"Most real-time conferencing systems prefer UDP for media transport.
+Explain:
+•Why UDP is generally preferred over TCP for audio/video conferencing
+•Under what conditions TCP transport might still be used
+The impact of retransmissions on real-time user experience",Aligned
+Q_164,Video Conferencing Solution,"•URI dialing
+•Direct IP dialing
+•IVR access
+•Virtual Meeting Rooms (VMRs)
+Explain how a user joins a conference using each method and describe one enterprise scenario where each method is most appropriate.",Aligned
+Q_165,Video Conferencing Solution,"An MCU hosts a meeting with 20 participants.
+Why does enabling:
+•Video compositing
+•Multiple conference layouts
+•Resolution upgrades from 1080p to 4K
+typically increase server resource consumption?
+Which resources are likely to become bottlenecks first?",Aligned
+Q_166,Video Conferencing Solution,"Your customer is planning a 4K video conferencing deployment.
+Compare H.264 and H.265 in terms of:
+•Compression efficiency
+•Bandwidth requirements
+•Computational complexity
+•Typical deployment considerations
+Why is H.265 often preferred for 4K conferencing?",Aligned
+Q_167,Video Conferencing Solution,"You are designing a conferencing solution for two scenarios:
+•A low-bandwidth voice-only environment
+•A premium boardroom meeting requiring high audio quality
+Among the following codecs:
+•Opus
+•AAC
+•AAC-LD
+•G.711
+•G.722
+•G.729
+Which codecs would you prioritize for each scenario and why?",Aligned
+Q_168,Video Conferencing Solution,"A customer reports that speakers' lip movements lag several hundred milliseconds behind the audio.
+Describe:
+•What A/V synchronization means
+•Common causes of A/V sync problems
+•Which system components you would investigate first
+How jitter buffering could influence the issue",Aligned
+Q_169,Video Conferencing Solution,"A meeting room contains:
+•A camera
+•Microphones
+•Codec appliance
+•Display screens
+•PoE touch controller
+Explain the role of each device during a video conference and how they interact to create the complete meeting-room experience.",Aligned
+Q_170,Video Conferencing Solution,"A meeting assistant provides:
+•Live transcription
+•Real-time subtitles
+•Spoken AI responses
+Describe the function of:
+•ASR
+•LLM
+•TTS
+and explain the sequence in which they process information during a live conference.",Aligned
+Q_171,Video Conferencing Solution,"What is the primary role of an MCU in a video conferencing system?
+Explain:
+•What functions it performs
+•Why it is needed in multiparty meetings
+How it differs from a simple point-to-point call",Aligned
+Q_172,Video Conferencing Solution,"A user is given the address: sip:alice@company.com
+What is a SIP URI?
+How is it similar to and different from:
+•An email address
+•An IP address
+•A telephone number",Aligned
+Q_173,Video Conferencing Solution,"The capability profile mentions H.235 and SRTP.
+Why is media encryption important in enterprise video conferencing?
+Provide examples of what risks may occur if signaling or media traffic is not encrypted.",Aligned
+Q_174,Video Conferencing Solution,"What is the difference between:
+•720p
+•1080p
+•4K UHD
+How does increasing resolution affect:
+•Bandwidth consumption
+•Processing requirements
+•User experience",Aligned
+Q_175,Video Conferencing Solution,"What is a Virtual Meeting Room (VMR)?
+Why do enterprises often prefer permanent VMRs instead of creating a new meeting space for every conference?",Aligned
+Q_176,Video Conferencing Solution,"During a meeting, a participant shares a PowerPoint presentation while their camera remains on.
+Why is presentation content often transmitted separately from camera video?
+What benefits does this provide to meeting participants?",Aligned
+Q_177,Video Conferencing Solution,"Name three network characteristics that are important for a good conferencing experience.
+Explain why the following matter:
+•Bandwidth
+•Latency
+•Packet loss",Aligned
+Q_178,Video Conferencing Solution,"Modern conferencing systems support layouts such as:
+•Speaker view
+•Gallery view
+•Multi-window layouts
+What are the advantages of each layout, and in which meeting scenarios would they typically be used?",Aligned
+Q_179,Video Conferencing Solution,"What is Acoustic Echo Cancellation (AEC)?
+Describe a meeting-room scenario where echo occurs and explain how AEC improves the meeting experience.",Aligned
+Q_180,Video Conferencing Solution,"What is CPaaS (Communications Platform as a Service)?
+Provide examples of how an enterprise application could use CPaaS APIs to add:
+•Voice calling
+•Video conferencing
+•Chat messaging
+without building a communication platform from scratch.",Aligned
+Q_181,Video Conferencing Solution,"What is WebRTC, and why is it widely used for browser-based audio and video conferencing?
+Describe its main advantages compared to requiring users to install a dedicated conferencing client.",Aligned
+Q_182,Video Conferencing Solution,"A video conference carries both audio and video streams.
+What is the purpose of RTP, and what kinds of data are typically transported using RTP in a conferencing system?",Aligned
+Q_183,Video Conferencing Solution,"A conference room contains several microphones connected to the conferencing system.
+Why might a room require multiple microphones instead of a single microphone?
+What problems can occur if microphone placement is poor?",Aligned
+Q_184,Video Conferencing Solution,"The capability profile mentions PoE touch panels.
+What does PoE (Power over Ethernet) mean?
+What advantages does PoE provide when deploying meeting-room control devices?",Aligned
+Q_185,Video Conferencing Solution,"HDMI is commonly used in meeting rooms.
+Give two examples of equipment that may be connected using HDMI and explain what type of signals HDMI typically carries.",Aligned
+Q_186,Video Conferencing Solution,"Before audio is transmitted across the network, it is encoded using a codec such as Opus or G.711.
+Why is audio encoding necessary?
+What would happen if raw audio data were transmitted without compression?",Aligned
+Q_187,Video Conferencing Solution,"During a video meeting, users report:
+•Blurry video
+•Occasional video freezes
+•Audio remains clear
+Why might insufficient network bandwidth be a possible cause?
+What observations would support this diagnosis?",Aligned
+Q_188,Video Conferencing Solution,"Define screen sharing.
+List three examples of content commonly shared during business meetings and explain why screen sharing is important in collaboration scenarios.",Aligned
+Q_189,Video Conferencing Solution,"Enterprise customers often request high-availability conferencing solutions.
+What does ""high availability"" mean in a video conferencing environment?
+Provide an example of a business impact that could occur if conferencing services become unavailable.",Aligned
+Q_190,Video Conferencing Solution,"A meeting assistant can generate live captions from participant speech.
+Describe the high-level process from: Participant speaks → Caption appears on screen
+What role does speech recognition play in this workflow?",Aligned
+Q_191,Video Conferencing Solution,"An enterprise wants users in a video conferencing platform to dial external telephone numbers through a SIP trunk.
+Explain:
+•The role of the SIP trunk
+•How call routing decisions are made
+•Where number translation may occur
+How you would validate that signaling and media are flowing correctly between the conferencing platform and the SIP service provider",Aligned
+Q_192,Video Conferencing Solution,"During a conference call:
+•Both parties establish the call successfully
+•Video works normally
+•Only one side can hear audio
+Describe a structured troubleshooting process.
+Which areas would you investigate first?
+•SDP negotiation
+•Codec compatibility
+•RTP flow
+•Firewall/network policies
+Media server configuration",Aligned
+Q_193,Video Conferencing Solution,"In an SVC-based conferencing platform, participants join using a mixture of:
+•Desktop clients
+•Mobile devices
+•Low-bandwidth remote links
+Explain how selective forwarding allows different participants to receive different media streams.
+What advantages does this provide compared with sending identical media to all participants?",Aligned
+Q_194,Video Conferencing Solution,"An organization operates media servers in three geographical regions.
+Explain:
+•What conference cascading means
+•Why cascading might be used instead of hosting all participants on a single MCU
+•The benefits and drawbacks of this approach
+Consider bandwidth, latency, and resource utilization in your answer.",Aligned
+Q_195,Video Conferencing Solution,"A meeting room solution supports:
+•Voice-activated switching
+•Multi-window display
+•Automatic layouts
+Describe how a conferencing platform might automatically determine which participant should be highlighted as the active speaker.
+What information from the audio and conference-control layers could be used to drive the layout decision?",Aligned
+Q_196,Video Conferencing Solution,"What is the purpose of a video codec such as H.264 or H.265?
+Why can video conferencing systems not simply transmit uncompressed video across enterprise networks?",Aligned
+Q_197,Video Conferencing Solution,"The capability profile refers to video endpoints.
+Give three examples of conferencing endpoints and explain how endpoints differ from media servers in a conferencing architecture.",Aligned
+Q_198,Video Conferencing Solution,"Many conferencing platforms require users to enter a meeting number, room number, or virtual meeting room identifier.
+What benefits does this provide for conference management and participant access?",Aligned
+Q_199,Video Conferencing Solution,"What is packet loss?
+How might packet loss affect:
+•Audio quality
+•Video quality
+•Presentation sharing
+Which media type is generally perceived as more sensitive by end users during a business meeting?",Aligned
+Q_200,Video Conferencing Solution,"A conferencing platform displays live subtitles while participants are speaking.
+Explain:
+•How speech is converted into text
+•Where subtitles are typically generated
+Two business benefits of real-time subtitles during meetings",Aligned

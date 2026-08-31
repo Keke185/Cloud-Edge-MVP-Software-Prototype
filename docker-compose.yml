@@ -1,0 +1,65 @@
+
+services:
+  cloud_artifact_gen:
+    build: ./submit1-cloud_service
+    volumes:
+      - artifact-store:/data
+
+  classifier_artifact_gen:
+    build: ./submit1-cloud_service-classifier
+    volumes:
+      - artifact-store:/data
+
+
+  cloud:
+    build: ./submit1-edge_service
+    depends_on:
+      cloud_artifact_gen:
+        condition: service_completed_successfully
+    environment:
+      - NODE_ROLE=cloud
+    volumes:
+      - artifact-store:/data:ro
+    ports:
+      - "8000:8000"
+    networks:
+      - vcse-net
+
+
+  edge_unsandboxed:
+    build: ./submit1-edge_service
+    depends_on:
+      cloud_artifact_gen:
+        condition: service_completed_successfully
+    environment:
+      - NODE_ROLE=edge-unsandboxed
+    volumes:
+      - artifact-store:/data:ro
+    ports:
+      - "8001:8000"
+    networks:
+      - vcse-net
+
+
+  edge_classifier:
+    build: ./submit1-edge_service_classifier
+    depends_on:
+      cloud_artifact_gen:
+        condition: service_completed_successfully
+      classifier_artifact_gen:
+        condition: service_completed_successfully
+    environment:
+      - NODE_ROLE=edge-classifier
+    volumes:
+      - artifact-store:/data:ro
+    ports:
+      - "8002:8000"
+    networks:
+      - vcse-net
+
+networks:
+  vcse-net:
+    driver: bridge
+
+volumes:
+  artifact-store:
